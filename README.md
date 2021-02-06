@@ -21,7 +21,7 @@ I care deeply about building interfaces that are usable and pleasant for the mos
 - ⚡ Apart from programming, I love creating graphics and play games
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=techakhilc47&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=techakhil-me&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ## 🚀 Tech-Stack <img alt="TechStack" src="https://cdn.discordapp.com/attachments/765973145852575746/775937687433510943/Frame_11.svg"/> 
 
