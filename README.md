@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/techakhil.me)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/techakhil)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=techakhilc47.techakhilc47)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=techakhil-me.techakhil-me)
 
 I’m Akhil, but people call me “TechAkhil”. I’m a programmer, and I can speak multiple 'languages'😄.
 I specialize in writing efficient PYTHON scripts, DJANGO and REACT apps on all platforms and browsers. 
@@ -33,4 +33,4 @@ I care deeply about building interfaces that are usable and pleasant for the mos
 <a href="https://www.linkedin.com/in/akhil-padmanabhan-8385781a9/" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463319547412521/linkedin.png"></img></a>
 <a href="https://www.instagram.com/techakhil.me/" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463317047345182/instagram.png"></img></a>
 <a href="https://twitter.com/techakhil_me" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/775394227617660948/twitter.png"></img></a>
-<a href="https://codepen.io/techakhilc47" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/775398802442027048/codepen.png"></img></a>
+<a href="https://codepen.io/techakhil-me" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/775398802442027048/codepen.png"></img></a>
