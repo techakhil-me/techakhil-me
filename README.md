@@ -12,7 +12,7 @@ I’m Akhil, but people call me “TechAkhil”. I’m a programmer, and I can s
 I specialize in writing efficient PYTHON scripts, DJANGO and REACT apps on all platforms and browsers. 
 I care deeply about building interfaces that are usable and pleasant for the most number of people possible.
 
-<img align="right" alt="GIF" src="https://general.stdcdn.com/animation_500_kkcayqws.gif" width="300" height="300" />
+<img align="right" alt="GIF" src="https://general.stdcdn.com/animation_500_kkcayqws.gif" width="400" height="400" />
 
 - 🔭 I’m currently getting my hands dirty
 - 👯 I’m looking to collaborate on python projects
