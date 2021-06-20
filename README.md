@@ -25,6 +25,7 @@ I care deeply about building interfaces that are usable and pleasant for the mos
 
 ## 🚀 Tech-Stack <img alt="TechStack" src="https://cdn.discordapp.com/attachments/765973145852575746/775937687433510943/Frame_11.svg"/> 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316xdrzidluzl4jgxpymgiry6fhi&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=316xdrzidluzl4jgxpymgiry6fhi&redirect=true)
 
 ## 🚀 Connect With Me 🔝
 <a href="https://www.facebook.com/akhilc.47/" target="blank" ><img class="social" id="fb" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463311020130304/facebook.png"></img></a>
