@@ -17,7 +17,7 @@ I care deeply about building interfaces that are usable and pleasant for the mos
 - 🔭 I’m currently getting my hands dirty
 - 👯 I’m looking to collaborate on python projects
 - 💬 Ask me about competetive programming
-- 📫 How to reach me: ...
+- 📫 How to reach me: links below
 - ⚡ Apart from programming, I love creating graphics and play games
 <br/>
 
