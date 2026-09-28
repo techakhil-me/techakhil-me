@@ -1,37 +1,143 @@
-### Hi there, TechAkhil here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there, I'm TechAkhil! 👋
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://techakhil.vercel.app/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/techakhil/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/techakhil_me)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/techakhil.me)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/techakhil_me)
+<p align="left">
+  <a href="https://techakhil.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/techakhil/">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/techakhil_me">
+    <img src="https://img.shields.io/badge/Twitter-00acee?style=flat-square&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/techakhil.me">
+    <img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://t.me/techakhil_me">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=techakhil-me.techakhil-me)
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=3B5998&center=true&vCenter=true&width=700&lines=Designer+who+can+code+%F0%9F%8E%A8;Developer+who+can+design+%F0%9F%92%BB;Building+things+that+look+good+and+work+well"
+    alt="Typing SVG"
+  />
+</p>
 
-I’m Akhil, but people call me “TechAkhil”. I’m a programmer, and I can speak multiple 'languages'😄.
-I specialize in writing efficient PYTHON scripts, DJANGO and REACT apps on all platforms and browsers. 
-I care deeply about building interfaces that are usable and pleasant for the most number of people possible.
+---
 
-<img align="right" alt="GIF" src="https://general.stdcdn.com/animation_500_kkcayqws.gif" width="300" height="300" />
+## 👋 Glad to see you here!
 
-- 🔭 I’m currently getting my hands dirty
-- 👯 I’m looking to collaborate on python projects
-- 💬 Ask me about competetive programming
-- 📫 How to reach me: links below
-- ⚡ Apart from programming, I love creating graphics and play games
-<br/>
+<img
+src="https://komarev.com/ghpvc/?username=techakhil-me&style=flat-square&color=3b5998&label=PROFILE+VIEWS"
+alt="Profile Views"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=techakhil-me&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+I'm **Akhil**, but people call me **TechAkhil**.
 
-## 🚀 Tech-Stack <img alt="TechStack" src="https://cdn.discordapp.com/attachments/765973145852575746/775937687433510943/Frame_11.svg"/> 
+I'm a programmer who can speak multiple "languages" 😄.
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316xdrzidluzl4jgxpymgiry6fhi&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=316xdrzidluzl4jgxpymgiry6fhi&redirect=true)
+I enjoy building things across the stack — from **Python and Django backends** to **React interfaces** — with a strong focus on making products usable, interactive, and visually engaging.
 
-## 🚀 Connect With Me 🔝
-<a href="https://www.facebook.com/akhilc.47/" target="blank" ><img class="social" id="fb" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463311020130304/facebook.png"></img></a>
-<a href="https://discord.com/users/689358308712513766" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463308030640128/discord.png"></img></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=techakhilc47@gmail.com&su=Portfolio - I have something for you&body=excited to know you" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463313943691304/gmail.png"></img></a>
-<a href="https://www.linkedin.com/in/akhil-padmanabhan-8385781a9/" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463319547412521/linkedin.png"></img></a>
-<a href="https://www.instagram.com/techakhil.me/" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463317047345182/instagram.png"></img></a>
-<a href="https://twitter.com/techakhil_me" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/775394227617660948/twitter.png"></img></a>
-<a href="https://codepen.io/techakhil-me" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/775398802442027048/codepen.png"></img></a>
+I care deeply about building interfaces that are **usable, accessible, and pleasant** for as many people as possible.
+
+---
+
+## 🧑‍💻 What I'm Up To
+
+* 🔭 Currently getting my hands dirty with new technologies
+* 👯 Looking to collaborate on interesting Python and web projects
+* 💬 Ask me about JavaScript, React, Python, or competitive programming
+* 📫 Reach me through the links below
+* ⚡ Apart from programming, I love creating graphics, experimenting with design, and playing games
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=techakhil-me&show_icons=true&hide_border=true&theme=default"
+    alt="TechAkhil's GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=techakhil-me&layout=compact&hide_border=true&theme=default"
+    alt="TechAkhil's Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=techakhil-me&theme=default&hide_border=true"
+    alt="TechAkhil's GitHub Streak"
+  />
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,nodejs,express,django,flask,java,cpp,c,postgres,mysql,git,github,figma,photoshop,aws,gcp,linux"
+    alt="Tech Stack"
+  />
+</p>
+
+---
+
+## 🎨 Design + Development
+
+I like working at the intersection of **design and engineering**.
+
+> **Designer who can code. Developer who can design.**
+
+I enjoy turning ideas into polished digital experiences — from visual systems and interfaces to fully functional web applications.
+
+---
+
+## 🎧 Currently Listening
+
+<p align="center">
+  <a href="https://open.spotify.com/">
+    <img
+      src="https://img.shields.io/badge/Spotify-Listening-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+      alt="Spotify"
+    />
+  </a>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.facebook.com/akhilc.47/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://discord.com/users/689358308712513766">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:techakhilc47@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akhil-padmanabhan-8385781a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/techakhil.me/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/techakhil_me">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://codepen.io/techakhil-me">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building cool things, one pixel and one line of code at a time.</i>
+</p>
